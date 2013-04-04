@@ -1,0 +1,13 @@
+{
+  "name": "locomotive-test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "locomotive": "0.3.x",
+    "express": "3.x.x",
+    "connect-powered-by": "0.1.x",
+    "jade": "~0.28.2",
+    "coffee-script": "~1.6.2",
+    "mongoose": "~3.6.2"
+  }
+}
